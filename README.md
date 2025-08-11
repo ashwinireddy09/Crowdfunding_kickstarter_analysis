@@ -5,7 +5,7 @@ A crowdfunding platform like Kickstarter, the objective is to analyze campaign p
 ## Dataset used
 - <a href="https://github.com/ashwinireddy09/Crowdfunding_kickstarter_analysis/blob/main/Crowdfunding_Creator.xlsx">Dataset</a>
 - <a href="https://github.com/ashwinireddy09/Crowdfunding_kickstarter_analysis/blob/main/Crowdfunding_Location.xlsx">Dataset</a>
-- <a href="https://github.com/ashwinireddy09/Business-analysis-Dashboard/blob/main/crowdfunding_Category.xlsx">Dataset</a>
+- <a href="https://github.com/ashwinireddy09/Crowdfunding_kickstarter_analysis/blob/main/crowdfunding_Category.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 

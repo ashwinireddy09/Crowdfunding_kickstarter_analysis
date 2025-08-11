@@ -1,4 +1,4 @@
-# Kickstarter Analysis-business analysis(interactive dashboard creation using MS Excel, Power Bi)
+# Kickstarter Analysis-business analysis(interactive dashboard creation using MS Excel, Power Bi & Tableau)
 ## Project Objective
 A crowdfunding platform like Kickstarter, the objective is to analyze campaign performance, user behavior, and funding trends to provide actionable insights. The goal is to support data-driven decisions that enhance user experience, improve platform features, and increase successful project outcomes.
 
